@@ -1,7 +1,7 @@
 <h1>Hi, I'm D'Lon!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [DHCP Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DHCP Tutorial]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/dlonfernandez92-cyber/DHCP-Tutorial))
 
 <h2> 🤳 Connect with me:</h2>
 
