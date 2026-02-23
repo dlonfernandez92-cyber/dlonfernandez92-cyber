@@ -1,7 +1,7 @@
 <h1>Hi, I'm D'Lon!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [DHCP-Tutorial](https://github.com/dlonfernandez92-cyber/DHCP-Tutorial.git)
+  - <a href="https://www.example.com">DHCP Tutorial</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
